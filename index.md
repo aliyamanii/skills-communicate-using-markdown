@@ -12,3 +12,6 @@ class Main{
   }
 }
 ```
+- [ ] Test to see if the code actually works
+- [x] Make sure to add in the task list
+- [x] Check if the yaktocat looks funny
